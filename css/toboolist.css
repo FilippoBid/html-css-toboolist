@@ -20,15 +20,16 @@ border-radius: 0 0 1rem 1rem;
 padding: 3rem;}
 .inbox {background-color: aqua;display: inline-block;border-radius: 0.5rem;padding: 0.4rem 0.7rem;}
 .headtask{font-size:x-large}
-.editorial{background-color: aqua;
+.editorial{color: white; background-color: aqua;
     border-radius: 2rem;padding: 0.4rem 0.7rem;}
-.q1goals{background-color: rgb(116, 47, 122);
+.q1goals{color: white;background-color: rgb(116, 47, 122);
     border-radius: 2rem;padding: 0.4rem 0.7rem;}
-.recruit{background-color: rgb(37, 126, 126);
+.recruit{color: white;background-color: rgb(37, 126, 126);
     border-radius: 2rem;padding: 0.4rem 0.7rem}
-.website{background-color: rgb(244, 124, 255);
+.website{color: white;background-color: rgb(244, 124, 255);
     border-radius: 2rem;padding: 0.4rem 0.7rem;}
-.mobile{background-color: rgb(255, 199, 79);
+.mobile{color: white;background-color: rgb(255, 199, 79);
     border-radius: 2rem;padding: 0.4rem 0.7rem;}
-.sales{background-color: rgb(177, 241, 0);
+.sales{color: white;background-color: rgb(177, 241, 0);
     border-radius: 2rem;padding: 0.4rem 0.7rem;}
+    h2{margin: 1rem;}

@@ -16,5 +16,19 @@ margin-top: auto;}
 width: 60rem;
 height: 40rem;
 margin: 0 auto;
-border-radius: 0 0 1rem 1rem;}
+border-radius: 0 0 1rem 1rem;
+padding: 3rem;}
 .inbox {background-color: aqua;display: inline-block;border-radius: 0.5rem;padding: 0.4rem 0.7rem;}
+.headtask{font-size:x-large}
+.editorial{background-color: aqua;
+    border-radius: 2rem;padding: 0.4rem 0.7rem;}
+.q1goals{background-color: rgb(116, 47, 122);
+    border-radius: 2rem;padding: 0.4rem 0.7rem;}
+.recruit{background-color: rgb(37, 126, 126);
+    border-radius: 2rem;padding: 0.4rem 0.7rem}
+.website{background-color: rgb(244, 124, 255);
+    border-radius: 2rem;padding: 0.4rem 0.7rem;}
+.mobile{background-color: rgb(255, 199, 79);
+    border-radius: 2rem;padding: 0.4rem 0.7rem;}
+.sales{background-color: rgb(177, 241, 0);
+    border-radius: 2rem;padding: 0.4rem 0.7rem;}

@@ -10,9 +10,11 @@ margin-top: auto;}
 .whitebox1{background-color: whitesmoke;width: 60rem;
     height: 4rem;
     margin: 4rem  auto 0.3rem;
-    border-radius: 1rem 1rem 0 0 ;} 
+    border-radius: 1rem 1rem 0 0 ;
+     padding: 1rem 3rem;} 
 .whitebox2{background-color: whitesmoke;
 width: 60rem;
-height: 50rem;
+height: 40rem;
 margin: 0 auto;
 border-radius: 0 0 1rem 1rem;}
+h2{background-color: aqua;display: inline-block;border-radius: 0.5rem;padding: 0.4rem 0.7rem;}

@@ -6,9 +6,13 @@ body{background-color: rgb(207, 211, 211);}
 background-color: whitesmoke;}
 .logo{width: 4rem;}
 .txtlogo{display: inline-block;font-size: 4rem;
-margin-top: auto;}   
-.whitebox{background-color: whitesmoke;
+margin-top: auto;}
+.whitebox1{background-color: whitesmoke;width: 60rem;
+    height: 4rem;
+    margin: 4rem  auto 0.3rem;
+    border-radius: 1rem 1rem 0 0 ;} 
+.whitebox2{background-color: whitesmoke;
 width: 60rem;
-height: 40rem;
-margin: 4rem auto;
-}
+height: 50rem;
+margin: 0 auto;
+border-radius: 0 0 1rem 1rem;}

@@ -17,4 +17,4 @@ width: 60rem;
 height: 40rem;
 margin: 0 auto;
 border-radius: 0 0 1rem 1rem;}
-h2{background-color: aqua;display: inline-block;border-radius: 0.5rem;padding: 0.4rem 0.7rem;}
+.inbox {background-color: aqua;display: inline-block;border-radius: 0.5rem;padding: 0.4rem 0.7rem;}
